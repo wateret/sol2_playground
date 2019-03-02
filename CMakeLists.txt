@@ -40,3 +40,4 @@ include_directories(${LUA_INCLUDE_DIR})
 # Targets
 
 add_executable(hello_world hello_world.cc)
+add_executable(usertype usertype.cc)
