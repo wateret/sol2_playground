@@ -41,3 +41,4 @@ include_directories(${LUA_INCLUDE_DIR})
 
 add_executable(hello_world hello_world.cc)
 add_executable(usertype usertype.cc)
+add_executable(lazy_binding lazy_binding.cc)
